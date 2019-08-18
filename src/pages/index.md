@@ -41,7 +41,9 @@ sections:
       to pursue it, atleast, until now! I have started taking photos of nearly everything
       I can, all photos used in the site, are mine!
     image: images/feature3.png
-    actions: []
+    actions:
+    - label: Instagram
+      url: https://www.instagram.com/karthik.dng/
 - type: reviewsblock
   template: reviewsblock
   section_id: reviews
