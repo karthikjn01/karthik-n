@@ -34,7 +34,7 @@ sections:
     content: Very recently I started looking into design. I have always had a passion
       for making UI/UX that looks and feels incredible. I like experimenting, making
       sure that the way I do **anything (everything)** is unique and intuitive.
-    image: images/feature2.png
+    image: "/images/URBAN (1.1).png"
     actions: []
   - title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
