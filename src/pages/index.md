@@ -48,12 +48,10 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: This Is Call To Action Block!
+  title: Contact me!
   component: CtaBlock
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
-    url: "/signup"
+  subtitle: I would love to hear from you! Just drop me a message at karthikjn01@gmail.com
+  actions: []
 - type: postsblock
   template: postsblock
   section_id: recent-posts
