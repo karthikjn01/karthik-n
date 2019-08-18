@@ -9,11 +9,7 @@ sections:
   content: |-
     **Developer.**
 
-    ***
-
     **Designer**.
-
-    ***
 
     **Photographer**.
   image: images/hero.png
@@ -22,12 +18,11 @@ sections:
     url: "/about"
 - type: featuresblock
   template: featuresblock
-  section_id: features
-  title: Features
+  section_id: Developer
+  title: Developer
   component: FeaturesBlock
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
-  bg: gray
+  subtitle: Foo.Bar
+  bg: white
   featureslist:
   - title: The Best Feature of Your Services
     content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
