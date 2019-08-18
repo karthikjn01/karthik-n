@@ -9,6 +9,8 @@ menus:
 template: page
 
 ---
-Born in India, came to the UK when I was 3. From the age of 12, I have been developing on a range of platforms. Mainly Android, but also on web, Unity and tonnes of other languages/platforms. 
+Born in India, came to the UK when I was 3. From the age of 12, I have been developing on a range of platforms. Mainly Android, but also on web, Unity and tonnes of other languages/platforms.
+
+Started finding my feet in terms of designing things, started off with UI/UX and then slowly transitioned into doing art.
 
 Recently found my passion for photography, and since have been taking photos at every opportunity I get!
