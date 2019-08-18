@@ -10,7 +10,7 @@ sections:
   image: images/hero.png
   actions:
   - label: About Me
-    url: "/features"
+    url: "/about me"
 - type: featuresblock
   template: featuresblock
   section_id: features
