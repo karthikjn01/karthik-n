@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Welcome to my site!
+  title: Karthik N
   component: HeroBlock
   content: Developer. Designer. Photographer.
   image: images/hero.png
