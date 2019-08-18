@@ -4,12 +4,12 @@
   "header": {
     "title": "Karthik Nooli",
     "logo_img": "",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
       "actions": [
         {
           "label": "About Me",
-          "url": "#page/aboutus"
+          "url": "/about-me"
         }
       ]
     }
