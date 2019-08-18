@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: My life in a short paragraph
-img_path: images/about.jpg
+img_path: "/images/_MG_2543.JPG"
 menus:
   secondary:
     title: About Us
