@@ -36,13 +36,12 @@ sections:
       sure that the way I do **anything (everything)** is unique and intuitive.
     image: "/images/URBAN (1.1).png"
     actions: []
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: Photograph
+    content: I have always had a passion for photography, but never really looked
+      to pursue it, atleast, until now! I have started taking photos of nearly everything
+      I can, all photos used in the site, are mine!
     image: images/feature3.png
-    actions:
-    - label: Learn More
-      url: "/features"
+    actions: []
 - type: reviewsblock
   template: reviewsblock
   section_id: reviews
