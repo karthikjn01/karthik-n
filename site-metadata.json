@@ -15,16 +15,16 @@
     }
   },
   "footer": {
-    "logo_img": "images/logo_alt.png",
-    "tagline": "SaaS theme by Stackbit",
+    "logo_img": "",
+    "tagline": "Developer. Designer. Photographer.",
     "has_nav": true,
-    "nav_title": "Company",
+    "nav_title": "Me",
     "has_social": true,
-    "social_title": "Community",
+    "social_title": "Social Media",
     "has_subscribe": true,
     "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
-    "content": "&copy; Stackbit. All rights reserved.",
+    "subscribe_content": "Find out when something awesome happens!",
+    "content": "",
     "links": [
       {
         "text": "Made with Stackbit",
