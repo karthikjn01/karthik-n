@@ -26,11 +26,7 @@
     "subscribe_content": "Find out when something awesome happens!",
     "content": "",
     "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
+
     ]
   }
 }
