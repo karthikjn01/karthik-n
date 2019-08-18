@@ -36,10 +36,11 @@ sections:
       sure that the way I do **anything (everything)** is unique and intuitive.
     image: "/images/URBAN (1.1).png"
     actions: []
-  - title: Photograph
-    content: I have always had a passion for photography, but never really looked
-      to pursue it, atleast, until now! I have started taking photos of nearly everything
-      I can, all photos used in the site, are mine!
+  - title: Photography
+    content: |-
+      I have always had a passion for photography, but never really looked to pursue it, atleast, until now! I have started taking photos of nearly everything I can, all photos used in the site, are mine!
+
+      Using the canon EOS 550d with a 50mm f1.8 lens, or my phone (samsung galaxy s10)
     image: images/feature3.png
     actions:
     - label: Instagram
