@@ -3,7 +3,7 @@
   "palette": "orange",
   "header": {
     "title": "Karthik Nooli",
-    "logo_img": "",
+    "logo_img": "/images/KNLogo.png",
     "has_nav": true,
     "menu": {
       "actions": [
