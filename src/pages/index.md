@@ -28,7 +28,7 @@ sections:
     content: I have been a developer for over 5 years, working on a range of technologies.
       I have experience with over 10 programming languages, but my favourite languages
       include Dart, Java, Kotlin and C#.
-    image: "/images/_MG_1060.CR2.jpg"
+    image: "/images/_MG_1060.CR2.png"
     actions: []
   - title: Designer
     content: Very recently I started looking into design. I have always had a passion
