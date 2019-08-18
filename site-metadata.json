@@ -2,14 +2,13 @@
   "title": "Karthik N",
   "palette": "purple",
   "header": {
-    "title": "Azimuth",
-    "logo_img": "images/logo.png",
-    "has_nav": true,
+    "title": "Karthik Nooli",
+    "logo_img": "",
+    "has_nav": false,
     "menu": {
       "actions": [
         {
-          "label": "Sign Up",
-          "url": "/signup"
+          "label": "Learn more"
         }
       ]
     }
