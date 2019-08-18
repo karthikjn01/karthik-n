@@ -19,7 +19,7 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: aboutme
-  title: Skills
+  title: ''
   component: FeaturesBlock
   subtitle: ''
   bg: white
