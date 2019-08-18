@@ -30,9 +30,10 @@ sections:
       include Dart, Java, Kotlin and C#.
     image: "/images/_MG_1060.CR2.jpg"
     actions: []
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: Designer
+    content: Very recently I started looking into design. I have always had a passion
+      for making UI/UX that looks and feels incredible. I like experimenting, making
+      sure that the way I do **anything (everything)** is unique and intuitive.
     image: images/feature2.png
     actions:
     - label: Learn More
