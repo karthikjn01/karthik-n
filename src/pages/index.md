@@ -12,7 +12,7 @@ sections:
     **Designer**.
 
     **Photographer**.
-  image: images/hero.png
+  image: "/images/KNLogo.png"
   actions:
   - label: About Me
     url: "/about"
