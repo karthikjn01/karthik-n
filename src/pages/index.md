@@ -18,19 +18,18 @@ sections:
     url: "/about"
 - type: featuresblock
   template: featuresblock
-  section_id: Developer
-  title: Developer
+  section_id: aboutme
+  title: Skills
   component: FeaturesBlock
-  subtitle: Foo.Bar
+  subtitle: ''
   bg: white
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
-    actions:
-    - label: Learn More
-      url: "/features"
+  - title: Developer
+    content: I have been a developer for over 5 years, working on a range of technologies.
+      I have experience with over 10 programming languages, but my favourite languages
+      include Dart, Java, Kotlin and C#.
+    image: "/images/_MG_1060.CR2.jpg"
+    actions: []
   - title: Awesome Feature of Your Services
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
       sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
