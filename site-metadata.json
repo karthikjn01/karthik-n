@@ -8,7 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Learn more"
+          "label": "About Me",
+          "url": "#page/aboutus"
         }
       ]
     }
