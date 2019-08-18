@@ -6,10 +6,14 @@ sections:
   section_id: hero
   title: Karthik N
   component: HeroBlock
-  content: |2-
-        Developer.
+  content: |-
+    **Developer.**
+
+    ***
 
     **Designer**.
+
+    ***
 
     **Photographer**.
   image: images/hero.png
