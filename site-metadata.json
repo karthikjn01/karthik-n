@@ -21,7 +21,7 @@
     "nav_title": "Me",
     "has_social": true,
     "social_title": "Social Media",
-    "has_subscribe": true,
+    "has_subscribe": false,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Find out when something awesome happens!",
     "content": "",
