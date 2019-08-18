@@ -54,7 +54,7 @@ sections:
     or DM me on Instagram!
   actions:
   - label: Instagram
-    url: instagram.com/karthik.dng
+    url: https://www.instagram.com/karthik.dng
 - type: postsblock
   template: postsblock
   section_id: recent-posts
